@@ -13,7 +13,7 @@
 
 </div>
 
-Windows overlay for Jian Wang 3 — boss tracking, loot filtering and martial arts clarity. Built for the Tang dynasty world where every stance and every drop matters. **11.46 million monthly active users** reported in late 2026[reference:3].
+Windows overlay for Jian Wang 3 — boss tracking, loot filtering and martial arts clarity. Built for the Tang dynasty world where every stance and every drop matters. **11.46 million monthly active users** reported in late 2026.
 
 <details><summary>📑 <b>Contents</b></summary>
 
